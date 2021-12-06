@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**tjakrak/tjakrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - :nerd_face: I am interested in Blockchain, Web & Backend Engineering, Database management and Machine Learning
 - 🔭 I’m currently working on web application for ticket purchase event
 - 🌱 I’m currently learning react.js and django
