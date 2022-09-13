@@ -13,5 +13,5 @@
 - C :star::star::star: (Intermediate)
 - Python :star::star::star: (Intermediate)
 - Go :star::star: (Beginner)
-- Javascript :star: (Learning)
+- Javascript :star: (Beginner)
 - SQL :star::star::star::star: (Advanced)
