@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :nerd_face: I am interested in data analytics and big data
+- :nerd_face: I am currently looking for engineering roles such as: data engineer, backend engineer and full-stack engineer.
 - 🔭 I’m currently working on big data related projects and daily planner app (similar to trello)
 - 🌱 I’m currently learning go and javascript
 - 💬 Ask me about anything
